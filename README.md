@@ -1,1 +1,3 @@
 # odin-recipes
+
+So for this repository, I'm going to be working on the basics of HTML to create my first website project which will be a recipes website. Before I start I'll briefly estimate the sort of things I'll be working; concepts like basic paragraph structuring, displaying images, relative linking within the websites pages, paragraph and image alignment and font manipulation (bold, italicise).
