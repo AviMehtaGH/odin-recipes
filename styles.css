@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+    color: white;
+    background-color: cadetblue;
+}
+
+.main h1 {
+  text-align: center;  
+}
+
+.main p {
+    text-align: center;
+}
+
+.main h2 {
+    text-align: center;
+}
